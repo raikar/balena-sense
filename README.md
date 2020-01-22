@@ -107,4 +107,4 @@ A full guide covering the initial setup of this project is available on [our blo
 We published an additional blog covering the setup of a fleet of balenaSense devices to feed to a central database on [our blog here](https://www.balena.io/blog/p/474400e0-e1f7-4c08-b5b3-e993fd12bda9/).
 
 Yahoo!
-
+Yahoo!
