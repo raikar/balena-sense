@@ -90,7 +90,7 @@ def get_readings(sensor):
             'measurement': 'balena-sense',
             'fields': {
                 'temperature': float(current_temperature),
-                # 'pressure': float(sensor.environ.pressure),
+                'pressure': float(sensor.environ.pressure),
                 'humidity': float(current_humidity),
                 'air_quality_score': float(air_quality_score)
             }
