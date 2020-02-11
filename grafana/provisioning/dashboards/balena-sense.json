@@ -68,12 +68,12 @@
                 "id": 5,
                 "operator": "",
                 "text": "Unhealthy",
-                "to": "181.5",
+                "to": "182.5",
                 "type": 2,
                 "value": ""
               },
               {
-                "from": "181.5",
+                "from": "182.5",
                 "id": 6,
                 "operator": "",
                 "text": "Very unhealthy",
